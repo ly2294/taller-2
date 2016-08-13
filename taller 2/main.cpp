@@ -14,7 +14,7 @@ int main()
 
     cout << " el resultado de 5/3*(3+5) es " << 5/3*(3+5) << endl;
 
-    // nos permite la elaboracion de  una operacion aritmetica
+    // nos permite la elaboracion de  una operacion aritmeticas
 
 return 0;
 }
